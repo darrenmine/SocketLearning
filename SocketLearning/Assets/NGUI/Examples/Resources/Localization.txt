@@ -1,0 +1,32 @@
+KEY,Chinese,English
+Flag,中文,英文
+Language,Chinese,English
+Info,信息,Infomation
+Sound,音效,Sound
+Music,音乐,Music
+Desc,描述,Desc
+Paragraph,"这个例子展示了如何“实现”的定位深入。为了实现一个插件，只需将[000000] uilocalize [-]脚本它。该脚本将本地化的精灵如果是[000000] uisprite [-]的文本，或如果它是一个[000000] UILabel [-]。如果你需要将其他的东西，只是实现[000000] onlocalize [-]功能。无论哪种方式，实际数据都是通过在场景中必须存在的[000000]本地化脚本指定的文本资产定义的。[-]","This example shows how to ""implement"" localization using NGUI. In order to localize a widget, simply attach [000000]UILocalize[-] script to it. The script will localize the sprite if it's a [000000]UISprite[-], or the text if it's a [000000]UILabel[-]. If you want to localize something else, just implement the [000000]OnLocalize[-] function. Either way, the actual data is defined via text assets specified on the [000000]Localization[-] script which must be present in the scene."
+CompanyName,0,0
+ProductName,0,0
+PackageName,0,0
+DiamondName,闲乐豆,Diamond
+GoldName,金币,Gold
+silverNiu,四花牛,silverNiu
+straightNiu,顺子牛,straightNiu
+goldNiu,五花牛,goldNiu
+flushNiu,同花牛,flushNiu
+gourdNiu,葫芦牛,gourdNiu
+quad,炸弹牛,quad
+fiveNiu,五小牛,fiveNiu
+straightFlush,同花顺,straightFlush
+Mutiple,倍,Mutiple
+QuickMode,极速模式(无搓牌),QuickMode
+Loading0,正在加载本地资源...,Loading Res...
+Loading1,正在关联资源...,Linking Res...
+Loading2,正在初始化Bugly...,Init Bugly...
+Loading3,正在加载数据...,Loading Data...
+Loading4,正在初始化GCloudVoice...,Init GCloudVoice...
+Loading5,初始化完成...,Init Complete...
+
+
+
